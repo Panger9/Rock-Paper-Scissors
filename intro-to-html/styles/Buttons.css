@@ -1,0 +1,67 @@
+.Youtube {
+  color: white;
+  background-color: rgb(201, 0, 0);
+  border: none;
+  border-radius: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: 20px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+  
+}
+
+.Youtube:hover {
+  opacity: 0.8;
+}
+.Youtube:active {
+  opacity: 0.5;
+}
+.Join {
+  color: rgb(86, 130, 252);
+  background-color: white;
+  border: solid;
+  border-color: rgb(86, 130, 252);
+  border-radius: 3px;
+  cursor: pointer;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-width: 1px;
+  transition: background-color 0.2s;
+}
+
+.Join:hover {
+  background-color: rgb(86, 130, 252);
+  color: white;
+}
+
+.Join:active {
+  opacity: 0.8;
+}
+
+.Twitter {
+  color: white;
+  border: none;
+  border-radius: 18px;
+  background-color: rgb(0, 140, 255);
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.1s;
+
+}
+
+.Twitter:hover {
+  box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+}
+
